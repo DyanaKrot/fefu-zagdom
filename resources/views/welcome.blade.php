@@ -24,7 +24,7 @@
         <link href="/css/app.css" rel="stylesheet">
     </head>
     <body>
-        <div class="hello-world">Hello, world!</div>
+        <div class="hello-world"><h1>Hello, world!</h1></div>
         <script type="text/javascript" src="/js/app.js"></script>
     </body>
 </html>
