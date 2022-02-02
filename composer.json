@@ -11,7 +11,7 @@
         "laravel/framework": "^8.54",
         "laravel/sanctum": "^2.11",
         "laravel/tinker": "^2.5",
-        "rcrowe/twigbridge": "^0.12.3",
+        "rcrowe/twigbridge": "^0.13.0",
         "twig/twig": "^3.3"
     },
     "require-dev": {
